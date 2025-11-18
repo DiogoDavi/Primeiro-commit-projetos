@@ -9,7 +9,7 @@
 
 .box-titulo {
     border-bottom: 1px solid #e3e3e3;  /* Linha abaixo do título */
-    padding-bottom: 10px;              /* Espaço entre título e linha */
+    padding-bottom: 12px;              /* Espaço entre título e linha */
     margin-bottom: 0px;               /* Espaço para o conteúdo abaixo */
     color: #559;
 
