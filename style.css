@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.box-titulo {
+    border-bottom: 1px solid #e3e3e3;  /* Linha abaixo do título */
+    padding-bottom: 10px;              /* Espaço entre título e linha */
+    margin-bottom: 0px;               /* Espaço para o conteúdo abaixo */
+    color: #555;
+
+
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+      
+}
+
+
+.link-menu {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.88px;
+    text-align: center;
+    margin-right: 32px;
+    cursor: pointer;   
+}
+
+.button-menu {
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+img {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+}
+div {
+    display: inline-block;
+    margin-left: 84px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+    color: #161A49;
+    width: 582px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    width: 493px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+
+}
+
+.button-learn-more {
+
+    color: #6FBF44;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align:center;
+    padding: 20px 0;
+    font-size: 14px;
+    color: #555;
+    border-top: 1px solid #e3e3e3;   /* Linha superior */
+    border-bottom: 3px solid #e3e3e3; /* Linha inferior (opcional) */
+    background-color: #fafafa;       /* Opcional */
+}
